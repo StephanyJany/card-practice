@@ -1,0 +1,19 @@
+.cards__card .card__text {
+    padding: 20px;
+}
+
+.cards__card {
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.card__red{}
+
+.cards__card .card__text--red {
+    color: red;
+}
+
+.cards__card .card__text--blue {
+    color: blue;
+}
